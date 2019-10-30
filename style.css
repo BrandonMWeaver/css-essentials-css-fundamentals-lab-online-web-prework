@@ -36,6 +36,10 @@ figcaption {
   text-align: center;
 }
 
+#details > div {
+  display: inline;
+}
+
 nav > a {
   padding-left: 10px;
   padding-right: 10px;
