@@ -34,7 +34,6 @@ figcaption {
   display: block;
   background: red;
   text-align: center;
-  float: left;
 }
 
 nav > a {
